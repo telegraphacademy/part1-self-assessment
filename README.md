@@ -18,7 +18,7 @@
 
   **NOTE: Explain the method you are using to do this (hint: '_____ notation')**
 
-####5. Create a function that takes an object and a name as parameters. It should return a new object with ONLY these properties:
+####5. Create a function that takes an object and a name as parameters. It should return the object with ONLY these properties:
   1. Your first and last name: **`name`: `'Bobby Tables'`**
   2. Your **`place of birth`: city, state (or equivalent), country**
   3. Your **`hobby` or favorite activity**
